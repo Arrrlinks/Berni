@@ -109,7 +109,7 @@ void stop() {
     leftWheel(0, 0);
 }
 
-void uTurn(int direction) {
+void UTurn(int direction) {
     // fait faire un demi-tour au robot
     // direction = 1 pour tourner à droite*
     // direction = -1 pour tourner à gauche*
