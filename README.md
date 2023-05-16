@@ -7,8 +7,8 @@ Berni est un adorable robot conçu spécialement pour aider à nettoyer les plag
 
 ![Berni](images/Berni3.jpg)
 
+![Berni](images/Berni6.jpg)
+
 ![Berni](images/Berni4.jpg)
 
 ![Berni](images/Berni5.jpg)
-
-![Berni](images/Berni6.jpg)
