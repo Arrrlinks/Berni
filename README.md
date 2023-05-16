@@ -13,3 +13,12 @@ Berni, le robot créé par le centre CESI de Nancy, a participé avec succès au
 ![Berni](images/Berni4.jpg)
 
 ![Berni](images/Berni5.jpg)
+
+Liste des participants :
+- [Lucas HAUSWIRTH](https://www.linkedin.com/in/lucas-hauswirth-187330235/) - Conception/Modélisation/Construction
+- [Antoine FAURE](https://github.com/Arrrlinks) - Code/Electronique
+- [Matthis PINHEIRO-CRUZ](https://github.com/Matth2A) - Soudures
+- [Gabriel ANCIAUX](https://github.com/Shulkogu) - Fixations
+- [Rémi SENECHAL](https://www.linkedin.com/in/r%C3%A9mi-snchl/)
+- [Léanne VOLBURGER](https://www.linkedin.com/in/l%C3%A9anne-vorburger/)
+- [Nathan LEVAUDEL](https://www.linkedin.com/in/nathan-levaudel-116458256/)
